@@ -9,6 +9,10 @@ const personRouter = require('./routes/person.router');
 // Creation du web serveur
 const app = express();
 
+// Configuration du moteur de vue
+app.set('view engine', 'ejs');
+app.set('views', './views');
+
 // Middlewares
 app.use(express.urlencoded({extended: true}));
 

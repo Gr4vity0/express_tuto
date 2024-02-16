@@ -1,6 +1,6 @@
 const homeController = {
     index: (req, res) => {
-        res.sendStatus(501);
+        res.render('home/index')
     },
 }
 module.exports = homeController;

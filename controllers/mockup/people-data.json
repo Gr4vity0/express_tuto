@@ -1,0 +1,26 @@
+[
+    { 
+        "id": 1,
+        "firstname": "Della",
+        "lastname": "Duck",
+        "job": "dev lead",
+        "profileImg": null,
+        "desc": "Fille de Rodolphe Duck et de Hortense Picsou, Della Duck est la sœur jumelle de Donald. Née en 1920 et surnommée « Dumbella » par son frère, elle quitte assez jeune Donaldville en suivant sa mère fâchée par l'attitude de Picsou. Elle est la mère des triplés Riri, Fifi et Loulou qu'elle confie à son frère."
+      },
+      { 
+        "id": 2,
+        "firstname": "Zaza",
+        "lastname": "Vanderquack",
+        "job": "Stagiaire",
+        "profileImg": null,
+        "desc": "Il s'agit d'une jeune cane ayant à peu près le même âge que Riri, Fifi et Loulou. Dans la série de 1987, Zaza et sa grand-mère Mamie Baba se sont installées dans le manoir Picsou quand cette dernière a été embauchée par Balthazar Picsou pour être la gouvernante des triplés."
+      },
+      { 
+        "id": 3,
+        "firstname": "Picsou",
+        "lastname": "Balthazar",
+        "job": "Boss",
+        "profileImg": null,
+        "desc": "Balthazar Picsou est donc le canard le plus riche du monde ayant amassé sa fortune au fil des années après un travail acharné et une pugnacité sans faille. Il a cherché des trésors à travers le globe par mont et par vent. Il est toujours à l'affut d'un bon filon pour faire grossir sa fortune. Le richissime canard aime plus que tout son argent et déteste dépenser sans raison. S'il peut paraitre avare et égoïste, il est un chantre en réalité de la valeur du travail et estime que chaque instant comme chaque investissement doit rapporter. Pour autant, Picsou reste un être foncièrement honnête et fair-play qui déteste avoir une dette. D'un tempérament colérique, comme son neveu Donald, il peut paraitre solitaire et froid mais derrière la glace, se cache en réalité un individu très secret, attentionné et aimant. Car s'il y a une chose que Picsou aime plus que son argent, c'est bien sa famille. Ses neveux Donald, Riri, Fifi et Loulou ont d'ailleurs réussi à rallumer la flamme de son cœur et son goût pour l'aventure. Il n'a confiance qu'en eux et les emmène donc systématiquement avec lui dans des aventures plus folles les unes que les autres…"
+      }
+    ]
