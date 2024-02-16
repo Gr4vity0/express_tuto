@@ -70,3 +70,10 @@ git init
 - Ajout de fichier .gitignore
 - initialiser avec git init
 - git commit git add . 
+
+### Création des dossiers Controllers, Routes, Views, Public
+
+### Controller *Exemple liste de personne, detail d'une personne*
+```
+
+```
